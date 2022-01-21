@@ -3,6 +3,7 @@ raw-data/
 *.ppt
 *.docx
 rubbish.R
+*.html
 
 # History files
 .Rhistory
